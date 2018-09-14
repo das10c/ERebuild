@@ -1,4 +1,4 @@
-ERebuild
+eRebuild
 ========
 
-All scripts associated with the E Rebuild game
+File issues here.
